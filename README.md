@@ -27,6 +27,7 @@
 - [Mac Catalyst](https://github.com/Youngminah/iosNote/issues/12)
 - [Build 내역 지우기](https://github.com/Youngminah/iosNote/issues/11)
 - [iOS target버전을 12.0으로 내리면 오류가 뜨는 이유](https://github.com/Youngminah/iosNote/issues/10) 🏷
+- [Build interfaces with style (wwdc21 xcode13)](https://github.com/Youngminah/iosNote/issues/18) 🏷
 
 </br>
 </br>
