@@ -41,5 +41,6 @@
 - [Swift 배열, 딕셔너리, 집합, 튜플](https://github.com/Youngminah/iosNote/issues/21)
 - [옵셔널 언래핑](https://github.com/Youngminah/iosNote/issues/20)
 - [Swift Style Guide](https://github.com/Youngminah/iosNote/issues/25) 🔥
+- [단락평가 (Short-circuit Evaluation, Side Effect)](https://github.com/Youngminah/iosNote/issues/26)
 </br>
 </br>
