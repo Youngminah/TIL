@@ -31,3 +31,14 @@
 - [앱 생명주기](https://github.com/Youngminah/iosNote/issues/19) 🏷
 </br>
 </br>
+
+
+### ● 3일차 2021.09.30
+
+- [map, filter, reduce](https://github.com/Youngminah/iosNote/issues/24)
+- [클래스와 구조체](https://github.com/Youngminah/iosNote/issues/23)
+- [프로퍼티와 메소드](https://github.com/Youngminah/iosNote/issues/22)
+- [Swift 배열, 딕셔너리, 집합, 튜플](https://github.com/Youngminah/iosNote/issues/21)
+- [옵셔널 언래핑](https://github.com/Youngminah/iosNote/issues/20)
+</br>
+</br>
