@@ -44,3 +44,11 @@
 - [단락평가 (Short-circuit Evaluation, Side Effect)](https://github.com/Youngminah/iosNote/issues/26)
 </br>
 </br>
+
+
+### ● 4일차 2021.10.01
+
+- [다크모드](https://github.com/Youngminah/iosNote/issues/27)
+
+</br>
+</br>
