@@ -49,6 +49,7 @@
 ### ● 4일차 2021.10.01
 
 - [다크모드](https://github.com/Youngminah/iosNote/issues/27)
+- [뱅크샐러드 Design System (2020.08)](https://github.com/Youngminah/iosNote/issues/28)
 
 </br>
 </br>
