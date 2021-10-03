@@ -53,3 +53,15 @@
 
 </br>
 </br>
+
+
+### ● 개인공부 2021.10.03
+- [weak와 unowned 참조](https://github.com/Youngminah/iosNote/issues/30)
+- [@discardableResult](https://github.com/Youngminah/iosNote/issues/29)
+
+</br>
+</br>
+</br>
+</br>
+
+
