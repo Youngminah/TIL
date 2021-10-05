@@ -68,6 +68,18 @@
 
 </br>
 </br>
+
+
+### ● 5일차 2021.10.05
+
+- [iOS13 ~ iOS15 NavigationBar 달라진점](https://github.com/Youngminah/iosNote/issues/32)
+- [Move to Trash vs Remove Reference](https://github.com/Youngminah/iosNote/issues/33)
+- [런치스크린에 대한 보다 자세한 내용](https://github.com/Youngminah/iosNote/issues/34)
+- [컨텐츠 뷰 컨트롤러와 컨테이너 뷰 컨트롤러](https://github.com/Youngminah/iosNote/issues/35)
+
+
+</br>
+</br>
 </br>
 </br>
 
