@@ -86,6 +86,7 @@
 
 - [CocoaPods vs Carthage vs Swift Package Manager](https://github.com/Youngminah/iosNote/issues/37)
 - [코드로 오토레이아웃 NSLayoutAnchor vs SafeareaInsets](https://github.com/Youngminah/iosNote/issues/36)
+- [오토레이아웃 Storyboard vs Custom Code](https://github.com/Youngminah/iosNote/issues/38)
 
 </br>
 </br>
