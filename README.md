@@ -80,6 +80,15 @@
 
 </br>
 </br>
+
+
+### ● 6일차 2021.10.05
+
+- [CocoaPods vs Carthage vs Swift Package Manager](https://github.com/Youngminah/iosNote/issues/37)
+- [코드로 오토레이아웃 Anchor vs SafeareaInsets](https://github.com/Youngminah/iosNote/issues/36)
+
+</br>
+</br>
 </br>
 </br>
 
