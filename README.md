@@ -91,6 +91,17 @@
 - [UserDefaults을 이용해 Custom Object 저장법](https://github.com/Youngminah/iosNote/issues/41)
 - [Saving Data](https://github.com/Youngminah/iosNote/issues/40)
 
+
+</br>
+</br>
+
+
+### ● 7일차 2021.10.07
+
+- [xcode 13.0 업그레이드 이후 오류](https://github.com/Youngminah/iosNote/issues/43)
+- [Memberwise initializer](https://github.com/Youngminah/iosNote/issues/44)
+- [Convenience Initializers](https://github.com/Youngminah/iosNote/issues/45)
+
 </br>
 </br>
 </br>
