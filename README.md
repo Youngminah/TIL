@@ -106,7 +106,7 @@
 </br>
 
 
-### ● 7일차 2021.10.07
+### ● 8일차 2021.10.08
 
 - [iOS Notification Local vs Remote](https://github.com/Youngminah/iosNote/issues/48)
 - [Swift 5.1 return 생략가능](https://github.com/Youngminah/iosNote/issues/46)
