@@ -114,6 +114,14 @@
 
 </br>
 </br>
+
+
+### ● 9일차 2021.10.12
+
+- [Modern cell configuration WWDC2020](https://github.com/Youngminah/iosNote/issues/49)
+
+</br>
+</br>
 </br>
 </br>
 
