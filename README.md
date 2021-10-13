@@ -122,6 +122,14 @@
 
 </br>
 </br>
+
+### ● 10일차 2021.10.13
+
+- [PropertyWrapper](https://github.com/Youngminah/iosNote/issues/52)
+- [연산 프로퍼티 & 프로퍼티 옵저버](https://github.com/Youngminah/iosNote/issues/51)
+- [구조체와 클래스 let, var 비교 예제](https://github.com/Youngminah/iosNote/issues/50)
+</br>
+</br>
 </br>
 </br>
 
