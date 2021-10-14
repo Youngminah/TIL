@@ -11,9 +11,6 @@
 - [Breakpoint](https://github.com/Youngminah/iosNote/issues/16)
 - [iOS 4계층](https://github.com/Youngminah/iosNote/issues/15)
 - [Code Snippet](https://github.com/Youngminah/iosNote/issues/14)
-- [UI 에셋/리소스 관련 참고하면 좋을 사이트들](https://github.com/Youngminah/iosNote/issues/13)
-- [Mac Catalyst](https://github.com/Youngminah/iosNote/issues/12)
-- [Build 내역 지우기](https://github.com/Youngminah/iosNote/issues/11)
 - [앱 생명주기](https://github.com/Youngminah/iosNote/issues/19) 🏷
 - [다크모드](https://github.com/Youngminah/iosNote/issues/27)
 - [Move to Trash vs Remove Reference](https://github.com/Youngminah/iosNote/issues/33)
@@ -70,9 +67,11 @@
 </br>
 
 
-### 기업자료
+### 팁
 - [뱅크샐러드 Design System (2020.08)](https://github.com/Youngminah/iosNote/issues/28)
-
+- [UI 에셋/리소스 관련 참고하면 좋을 사이트들](https://github.com/Youngminah/iosNote/issues/13)
+- [Mac Catalyst](https://github.com/Youngminah/iosNote/issues/12)
+- [Build 내역 지우기](https://github.com/Youngminah/iosNote/issues/11)
 </br>
 </br>
 
@@ -87,7 +86,7 @@
 </br>
 </br>
 
-
+### 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
 
 
 
