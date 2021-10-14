@@ -130,7 +130,12 @@
 - [구조체와 클래스 let, var 비교 예제](https://github.com/Youngminah/iosNote/issues/50)
 </br>
 </br>
-</br>
-</br>
 
+
+### ● 11일차 2021.10.14
+- [Model enum으로 정리하기](https://github.com/Youngminah/iosNote/issues/53)
+</br>
+</br>
+</br>
+</br>
 
