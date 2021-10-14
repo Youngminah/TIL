@@ -78,6 +78,7 @@
 
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
 - [UserDefaults를 이용한 회원정보 PropertyWrapper로 코드 개선 해보기](https://github.com/Youngminah/TIL/issues/54)
+- [타입 메소드 class func](https://github.com/Youngminah/TIL/issues/55)
 
 </br>
 </br>
