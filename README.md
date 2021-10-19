@@ -38,10 +38,13 @@
 - [PropertyWrapper](https://github.com/Youngminah/iosNote/issues/52)🔥
 - [연산 프로퍼티 & 프로퍼티 옵저버](https://github.com/Youngminah/iosNote/issues/51)
 - [구조체와 클래스 let, var 비교 예제](https://github.com/Youngminah/iosNote/issues/50)
+- [Protocol](https://github.com/Youngminah/TIL/issues/56)
+- [타입 메소드 class func](https://github.com/Youngminah/TIL/issues/55)
 
 
 ## 코드개선
 - [Model enum으로 정리하기](https://github.com/Youngminah/iosNote/issues/53)
+- [UserDefaults를 이용한 회원정보 PropertyWrapper로 코드 개선 해보기](https://github.com/Youngminah/TIL/issues/54)
 
 
 ## 이슈
@@ -58,6 +61,7 @@
 - [Build interfaces with style (wwdc21 xcode13)](https://github.com/Youngminah/iosNote/issues/18) 🏷
 - [iOS13 ~ iOS15 NavigationBar 달라진점](https://github.com/Youngminah/iosNote/issues/32)
 - [Modern cell configuration WWDC2020](https://github.com/Youngminah/iosNote/issues/49)
+- [iOS15 Sheet Presentation Controller](https://github.com/Youngminah/TIL/issues/57)
 
 
 
@@ -77,10 +81,6 @@
 
 
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
-- [UserDefaults를 이용한 회원정보 PropertyWrapper로 코드 개선 해보기](https://github.com/Youngminah/TIL/issues/54)
-- [타입 메소드 class func](https://github.com/Youngminah/TIL/issues/55)
-- [iOS15 Sheet Presentation Controller](https://github.com/Youngminah/TIL/issues/57)
-- [Protocol](https://github.com/Youngminah/TIL/issues/56)
 </br>
 </br>
 
