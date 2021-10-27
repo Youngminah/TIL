@@ -76,6 +76,8 @@
 ## 기술스택 & 아키텍처
 - [LLDB](https://github.com/Youngminah/iosNote/issues/31) 🔥
 - [CocoaPods vs Carthage vs Swift Package Manager](https://github.com/Youngminah/iosNote/issues/37)
+
+## CS지식
 - [HTTP vs Socket](https://github.com/Youngminah/TIL/issues/60)
 
 
