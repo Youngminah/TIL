@@ -85,7 +85,7 @@
 </br>
 </br>
 
-[lf let vs guard else](https://github.com/Youngminah/TIL/issues/61)
+- [lf let vs guard else](https://github.com/Youngminah/TIL/issues/61)
 
 </br>
 </br>
