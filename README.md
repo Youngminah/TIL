@@ -25,6 +25,7 @@
 ## Swift
 - [map, filter, reduce](https://github.com/Youngminah/iosNote/issues/24)
 - [클래스와 구조체](https://github.com/Youngminah/iosNote/issues/23)
+- [구조체와 클래스 let, var 비교 예제](https://github.com/Youngminah/iosNote/issues/50)
 - [프로퍼티와 메소드](https://github.com/Youngminah/iosNote/issues/22)
 - [Swift 배열, 딕셔너리, 집합, 튜플](https://github.com/Youngminah/iosNote/issues/21)
 - [옵셔널 언래핑](https://github.com/Youngminah/iosNote/issues/20)
@@ -37,7 +38,6 @@
 - [Convenience Initializers](https://github.com/Youngminah/iosNote/issues/45)
 - [PropertyWrapper](https://github.com/Youngminah/iosNote/issues/52)🔥
 - [연산 프로퍼티 & 프로퍼티 옵저버](https://github.com/Youngminah/iosNote/issues/51)
-- [구조체와 클래스 let, var 비교 예제](https://github.com/Youngminah/iosNote/issues/50)
 - [Protocol](https://github.com/Youngminah/TIL/issues/56)
 - [타입 메소드 class func](https://github.com/Youngminah/TIL/issues/55)
 
@@ -86,9 +86,9 @@
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
 - [lf let vs guard else](https://github.com/Youngminah/TIL/issues/61)
 - [RawString](https://github.com/Youngminah/TIL/issues/59)
-- [페이징기법](https://github.com/Youngminah/TIL/issues/62)
+- [페이징기법](https://github.com/Youngminah/TIL/issues/62) 
 - [PHPicker iOS14](https://github.com/Youngminah/TIL/issues/63)
-- [GCD와 Operation Queue, 동기와 비동기, 직렬과 동시](https://github.com/Youngminah/TIL/issues/66)
+- [GCD와 Operation Queue, 동기와 비동기, 직렬과 동시](https://github.com/Youngminah/TIL/issues/66) 🔥
 - [Kingfisher없이 이미지 가져와보기](https://github.com/Youngminah/TIL/issues/65)
 - [네트워크 상태 실시간 모니터링](https://github.com/Youngminah/TIL/issues/64)
 - [아울렛 객체로 [UIView] 만들기](https://github.com/Youngminah/TIL/issues/67)
