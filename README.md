@@ -81,6 +81,9 @@
 - [HTTP vs Socket](https://github.com/Youngminah/TIL/issues/60)
 
 
+## iOS Clean Architecture + MVVM 정리
+
+
 
 
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
@@ -92,6 +95,8 @@
 - [Kingfisher없이 이미지 가져와보기](https://github.com/Youngminah/TIL/issues/65)
 - [네트워크 상태 실시간 모니터링](https://github.com/Youngminah/TIL/issues/64)
 - [아울렛 객체로 [UIView] 만들기](https://github.com/Youngminah/TIL/issues/67)
+- [1. iOS Clean Architecture + MVVM 정리](https://github.com/Youngminah/TIL/issues/69)
+- [DTO와 VO](https://github.com/Youngminah/TIL/issues/68)
 
 </br>
 </br>
