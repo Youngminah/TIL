@@ -91,6 +91,7 @@
 - [GCD와 Operation Queue, 동기와 비동기, 직렬과 동시](https://github.com/Youngminah/TIL/issues/66)
 - [Kingfisher없이 이미지 가져와보기](https://github.com/Youngminah/TIL/issues/65)
 - [네트워크 상태 실시간 모니터링](https://github.com/Youngminah/TIL/issues/64)
+- [아울렛 객체로 [UIView] 만들기](https://github.com/Youngminah/TIL/issues/67)
 
 </br>
 </br>
