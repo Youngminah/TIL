@@ -89,8 +89,8 @@
 
 - [lf let vs guard else](https://github.com/Youngminah/TIL/issues/61)
 - [RawString](https://github.com/Youngminah/TIL/issues/59)
-- [페이징기법](https://github.com/Youngminah/TIL/issues)
-
+- [페이징기법](https://github.com/Youngminah/TIL/issues/62)
+- [PHPicker iOS14](https://github.com/Youngminah/TIL/issues/63)
 
 </br>
 </br>
