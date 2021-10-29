@@ -84,13 +84,13 @@
 
 
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
-</br>
-</br>
-
 - [lf let vs guard else](https://github.com/Youngminah/TIL/issues/61)
 - [RawString](https://github.com/Youngminah/TIL/issues/59)
 - [페이징기법](https://github.com/Youngminah/TIL/issues/62)
 - [PHPicker iOS14](https://github.com/Youngminah/TIL/issues/63)
+- [GCD와 Operation Queue, 동기와 비동기, 직렬과 동시](https://github.com/Youngminah/TIL/issues/66)
+- [Kingfisher없이 이미지 가져와보기](https://github.com/Youngminah/TIL/issues/65)
+- [네트워크 상태 실시간 모니터링](https://github.com/Youngminah/TIL/issues/64)
 
 </br>
 </br>
