@@ -81,7 +81,7 @@
 - [HTTP vs Socket](https://github.com/Youngminah/TIL/issues/60)
 
 
-## iOS Clean Architecture + MVVM 정리
+## iOS Clean Architecture
 
 
 
