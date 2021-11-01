@@ -101,6 +101,9 @@
 
 
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
+- [MVC, MVP, MVVM, VIPER](https://github.com/Youngminah/TIL/issues/71)
+- [다국어 설정 및 대응](https://github.com/Youngminah/TIL/issues/72)
+- [2. iOS Clean Architecture + MVVM 정리](https://github.com/Youngminah/TIL/issues/70)
 
 
 </br>
