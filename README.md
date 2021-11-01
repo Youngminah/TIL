@@ -19,6 +19,11 @@
 - [UserDefaults을 이용해 Custom Object 저장법](https://github.com/Youngminah/iosNote/issues/41)
 - [Saving Data](https://github.com/Youngminah/iosNote/issues/40)
 - [iOS Sandbox System](https://github.com/Youngminah/iosNote/issues/42)
+- [아울렛 객체로 [UIView] 만들기](https://github.com/Youngminah/TIL/issues/67)
+- [Kingfisher없이 이미지 가져와보기](https://github.com/Youngminah/TIL/issues/65)
+- [GCD와 Operation Queue, 동기와 비동기, 직렬과 동시](https://github.com/Youngminah/TIL/issues/66) 🔥
+- [네트워크 상태 실시간 모니터링](https://github.com/Youngminah/TIL/issues/64)
+
 
 
 
@@ -40,6 +45,11 @@
 - [연산 프로퍼티 & 프로퍼티 옵저버](https://github.com/Youngminah/iosNote/issues/51)
 - [Protocol](https://github.com/Youngminah/TIL/issues/56)
 - [타입 메소드 class func](https://github.com/Youngminah/TIL/issues/55)
+- [lf let vs guard else](https://github.com/Youngminah/TIL/issues/61)
+- [RawString](https://github.com/Youngminah/TIL/issues/59)
+- [DTO와 VO](https://github.com/Youngminah/TIL/issues/68)
+
+
 
 
 ## 코드개선
@@ -62,7 +72,7 @@
 - [iOS13 ~ iOS15 NavigationBar 달라진점](https://github.com/Youngminah/iosNote/issues/32)
 - [Modern cell configuration WWDC2020](https://github.com/Youngminah/iosNote/issues/49)
 - [iOS15 Sheet Presentation Controller](https://github.com/Youngminah/TIL/issues/57)
-
+- [PHPicker iOS14](https://github.com/Youngminah/TIL/issues/63)
 
 
 ## 팁
@@ -76,29 +86,22 @@
 ## 기술스택 & 아키텍처
 - [LLDB](https://github.com/Youngminah/iosNote/issues/31) 🔥
 - [CocoaPods vs Carthage vs Swift Package Manager](https://github.com/Youngminah/iosNote/issues/37)
+- [페이징기법](https://github.com/Youngminah/TIL/issues/62) 
+
 
 ## CS지식
 - [HTTP vs Socket](https://github.com/Youngminah/TIL/issues/60)
 
 
 ## iOS Clean Architecture
-
+- [1. iOS Clean Architecture + MVVM 정리](https://github.com/Youngminah/TIL/issues/69)
 ## RIBs
 ## Rxswift
 ## Unit Test & UI Test
 
 
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
-- [lf let vs guard else](https://github.com/Youngminah/TIL/issues/61)
-- [RawString](https://github.com/Youngminah/TIL/issues/59)
-- [페이징기법](https://github.com/Youngminah/TIL/issues/62) 
-- [PHPicker iOS14](https://github.com/Youngminah/TIL/issues/63)
-- [GCD와 Operation Queue, 동기와 비동기, 직렬과 동시](https://github.com/Youngminah/TIL/issues/66) 🔥
-- [Kingfisher없이 이미지 가져와보기](https://github.com/Youngminah/TIL/issues/65)
-- [네트워크 상태 실시간 모니터링](https://github.com/Youngminah/TIL/issues/64)
-- [아울렛 객체로 [UIView] 만들기](https://github.com/Youngminah/TIL/issues/67)
-- [1. iOS Clean Architecture + MVVM 정리](https://github.com/Youngminah/TIL/issues/69)
-- [DTO와 VO](https://github.com/Youngminah/TIL/issues/68)
+
 
 </br>
 </br>
