@@ -107,7 +107,7 @@
 - [Realm](https://github.com/Youngminah/TIL/issues/73)
 - [Observable 와 Observer](https://github.com/Youngminah/TIL/issues/74)
 - [Subject](https://github.com/Youngminah/TIL/issues/75)
-- [Operator](https://github.com/Youngminah/TIL/issues/76)
+- [Filtering Operator](https://github.com/Youngminah/TIL/issues/76)
 
 
 </br>
