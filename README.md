@@ -105,6 +105,10 @@
 - [다국어 설정 및 대응](https://github.com/Youngminah/TIL/issues/72)
 - [2. iOS Clean Architecture + MVVM 정리](https://github.com/Youngminah/TIL/issues/70)
 - [Realm](https://github.com/Youngminah/TIL/issues/73)
+- [Observable 와 Observer](https://github.com/Youngminah/TIL/issues/74)
+- [Subject](https://github.com/Youngminah/TIL/issues/75)
+- [Operator](https://github.com/Youngminah/TIL/issues/76)
+
 
 </br>
 </br>
