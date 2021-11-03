@@ -110,7 +110,7 @@
 - [Filtering Operator](https://github.com/Youngminah/TIL/issues/76)
 - [앱 안의 도큐먼트에 이미지 저장, 삭제, 가져오기 (로컬에 저장)](https://github.com/Youngminah/TIL/issues/80)
 - [트랜잭션 Transaction (DB기초)](https://github.com/Youngminah/TIL/issues/81)
-- [Transforming Operators](https://github.com/Youngminah/TIL/issues/877)
+- [Transforming Operators](https://github.com/Youngminah/TIL/issues/77)
 </br>
 </br>
 
