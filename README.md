@@ -23,7 +23,9 @@
 - [Kingfisher없이 이미지 가져와보기](https://github.com/Youngminah/TIL/issues/65)
 - [GCD와 Operation Queue, 동기와 비동기, 직렬과 동시](https://github.com/Youngminah/TIL/issues/66) 🔥
 - [네트워크 상태 실시간 모니터링](https://github.com/Youngminah/TIL/issues/64)
-
+- [다국어 설정 및 대응](https://github.com/Youngminah/TIL/issues/72)
+- [앱 안의 도큐먼트에 이미지 저장, 삭제, 가져오기 (로컬에 저장)](https://github.com/Youngminah/TIL/issues/80)
+- [로컬 데이터 백업/복구 (with Zip)](https://github.com/Youngminah/TIL/issues/82)
 
 
 
@@ -87,33 +89,39 @@
 - [LLDB](https://github.com/Youngminah/iosNote/issues/31) 🔥
 - [CocoaPods vs Carthage vs Swift Package Manager](https://github.com/Youngminah/iosNote/issues/37)
 - [페이징기법](https://github.com/Youngminah/TIL/issues/62) 
+- [Realm](https://github.com/Youngminah/TIL/issues/73)
 
 
 ## CS지식
 - [HTTP vs Socket](https://github.com/Youngminah/TIL/issues/60)
-
+- [트랜잭션 Transaction (DB기초)](https://github.com/Youngminah/TIL/issues/81)
 
 ## iOS Clean Architecture
 - [1. iOS Clean Architecture + MVVM 정리](https://github.com/Youngminah/TIL/issues/69)
-## RIBs
+- [2. iOS Clean Architecture + MVVM 정리](https://github.com/Youngminah/TIL/issues/70)
+- [MVC, MVP, MVVM, VIPER](https://github.com/Youngminah/TIL/issues/71)
+
+
 ## Rxswift
+- [Observable 와 Observer](https://github.com/Youngminah/TIL/issues/74)
+- [Subject](https://github.com/Youngminah/TIL/issues/75)
+- [Filtering Operator](https://github.com/Youngminah/TIL/issues/76)
+- [Transforming Operators](https://github.com/Youngminah/TIL/issues/77)
+- [Combining Operators](https://github.com/Youngminah/TIL/issues/78)
+- [Time Based Operators](https://github.com/Youngminah/TIL/issues/79)
+
+
+## RIBs
+
+
 ## Unit Test & UI Test
 
 
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
-- [MVC, MVP, MVVM, VIPER](https://github.com/Youngminah/TIL/issues/71)
-- [다국어 설정 및 대응](https://github.com/Youngminah/TIL/issues/72)
-- [2. iOS Clean Architecture + MVVM 정리](https://github.com/Youngminah/TIL/issues/70)
-- [Realm](https://github.com/Youngminah/TIL/issues/73)
-- [Observable 와 Observer](https://github.com/Youngminah/TIL/issues/74)
-- [Subject](https://github.com/Youngminah/TIL/issues/75)
-- [Filtering Operator](https://github.com/Youngminah/TIL/issues/76)
-- [앱 안의 도큐먼트에 이미지 저장, 삭제, 가져오기 (로컬에 저장)](https://github.com/Youngminah/TIL/issues/80)
-- [트랜잭션 Transaction (DB기초)](https://github.com/Youngminah/TIL/issues/81)
-- [Transforming Operators](https://github.com/Youngminah/TIL/issues/77)
-- [로컬 데이터 백업/복구 (with Zip)](https://github.com/Youngminah/TIL/issues/82)
-- [Combining Operators](https://github.com/Youngminah/TIL/issues/78)
-- [Time Based Operators](https://github.com/Youngminah/TIL/issues/79)
+- [RxCocoa](https://github.com/Youngminah/TIL/issues/83)
+- [cell의 버튼 이벤트 전달 tag + addTarget의 한계점](https://github.com/Youngminah/TIL/issues/84)
+- [테이블뷰 headerview, section, indexPath를 이용하여 활용할 때 주의할 점](https://github.com/Youngminah/TIL/issues/85)
+
 </br>
 </br>
 
