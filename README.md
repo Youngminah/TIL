@@ -121,6 +121,14 @@
 - [RxCocoa](https://github.com/Youngminah/TIL/issues/83)
 - [cell의 버튼 이벤트 전달 tag + addTarget의 한계점](https://github.com/Youngminah/TIL/issues/84)
 - [테이블뷰 headerview, section, indexPath를 이용하여 활용할 때 주의할 점](https://github.com/Youngminah/TIL/issues/85)
+- [iOS 기본 호출 순서](https://github.com/Youngminah/TIL/issues/86)
+- [에러 핸들링 예제](https://github.com/Youngminah/TIL/issues/87)
+- [Error Handling](https://github.com/Youngminah/TIL/issues/88)
+- [BaaS: Backend as a Service](https://github.com/Youngminah/TIL/issues/89)
+- [iOS 14+ IDFA](https://github.com/Youngminah/TIL/issues/90)
+- [App thining, BitCode, dSYM)](https://github.com/Youngminah/TIL/issues/91)
+- [HTTP (Hypertext transfer protocol)](https://github.com/Youngminah/TIL/issues/92)
+- [SOLID 객체지향의 5가지 원칙](https://github.com/Youngminah/TIL/issues/93)
 
 </br>
 </br>
