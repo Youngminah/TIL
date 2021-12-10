@@ -64,6 +64,8 @@
 - [xcode 13.0 업그레이드 이후 오류](https://github.com/Youngminah/iosNote/issues/43)
 - [오토레이아웃 Storyboard vs Custom Code](https://github.com/Youngminah/iosNote/issues/39)
 - [코드로 오토레이아웃 NSLayoutAnchor vs SafeareaInsets](https://github.com/Youngminah/iosNote/issues/36)
+- [cell의 버튼 이벤트 전달 tag + addTarget의 한계점](https://github.com/Youngminah/TIL/issues/84)
+- [테이블뷰 headerview, section, indexPath를 이용하여 활용할 때 주의할 점](https://github.com/Youngminah/TIL/issues/85)
 
 
 ## WWDC
@@ -109,7 +111,7 @@
 - [Transforming Operators](https://github.com/Youngminah/TIL/issues/77)
 - [Combining Operators](https://github.com/Youngminah/TIL/issues/78)
 - [Time Based Operators](https://github.com/Youngminah/TIL/issues/79)
-
+- [RxCocoa](https://github.com/Youngminah/TIL/issues/83)
 
 ## RIBs
 
@@ -118,9 +120,6 @@
 
 
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
-- [RxCocoa](https://github.com/Youngminah/TIL/issues/83)
-- [cell의 버튼 이벤트 전달 tag + addTarget의 한계점](https://github.com/Youngminah/TIL/issues/84)
-- [테이블뷰 headerview, section, indexPath를 이용하여 활용할 때 주의할 점](https://github.com/Youngminah/TIL/issues/85)
 - [iOS 기본 호출 순서](https://github.com/Youngminah/TIL/issues/86)
 - [에러 핸들링 예제](https://github.com/Youngminah/TIL/issues/87)
 - [Error Handling](https://github.com/Youngminah/TIL/issues/88)
