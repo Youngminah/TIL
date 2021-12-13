@@ -26,6 +26,9 @@
 - [다국어 설정 및 대응](https://github.com/Youngminah/TIL/issues/72)
 - [앱 안의 도큐먼트에 이미지 저장, 삭제, 가져오기 (로컬에 저장)](https://github.com/Youngminah/TIL/issues/80)
 - [로컬 데이터 백업/복구 (with Zip)](https://github.com/Youngminah/TIL/issues/82)
+- [iOS 14+ IDFA](https://github.com/Youngminah/TIL/issues/90)
+- [에러 핸들링 예제](https://github.com/Youngminah/TIL/issues/87)
+- [iOS 기본 호출 순서](https://github.com/Youngminah/TIL/issues/86)
 
 
 
@@ -77,6 +80,7 @@
 - [Modern cell configuration WWDC2020](https://github.com/Youngminah/iosNote/issues/49)
 - [iOS15 Sheet Presentation Controller](https://github.com/Youngminah/TIL/issues/57)
 - [PHPicker iOS14](https://github.com/Youngminah/TIL/issues/63)
+- [App thining, BitCode, dSYM)](https://github.com/Youngminah/TIL/issues/91)
 
 
 ## 팁
@@ -97,6 +101,9 @@
 ## CS지식
 - [HTTP vs Socket](https://github.com/Youngminah/TIL/issues/60)
 - [트랜잭션 Transaction (DB기초)](https://github.com/Youngminah/TIL/issues/81)
+- [SOLID 객체지향의 5가지 원칙](https://github.com/Youngminah/TIL/issues/93)
+- [HTTP (Hypertext transfer protocol)](https://github.com/Youngminah/TIL/issues/92)
+- [BaaS: Backend as a Service](https://github.com/Youngminah/TIL/issues/89)
 
 ## iOS Clean Architecture
 - [1. iOS Clean Architecture + MVVM 정리](https://github.com/Youngminah/TIL/issues/69)
@@ -112,6 +119,7 @@
 - [Combining Operators](https://github.com/Youngminah/TIL/issues/78)
 - [Time Based Operators](https://github.com/Youngminah/TIL/issues/79)
 - [RxCocoa](https://github.com/Youngminah/TIL/issues/83)
+- [Error Handling](https://github.com/Youngminah/TIL/issues/88)
 
 ## RIBs
 
@@ -120,14 +128,9 @@
 
 
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
-- [iOS 기본 호출 순서](https://github.com/Youngminah/TIL/issues/86)
-- [에러 핸들링 예제](https://github.com/Youngminah/TIL/issues/87)
-- [Error Handling](https://github.com/Youngminah/TIL/issues/88)
-- [BaaS: Backend as a Service](https://github.com/Youngminah/TIL/issues/89)
-- [iOS 14+ IDFA](https://github.com/Youngminah/TIL/issues/90)
-- [App thining, BitCode, dSYM)](https://github.com/Youngminah/TIL/issues/91)
-- [HTTP (Hypertext transfer protocol)](https://github.com/Youngminah/TIL/issues/92)
-- [SOLID 객체지향의 5가지 원칙](https://github.com/Youngminah/TIL/issues/93)
+- [required init?(coder:)이란?](https://github.com/Youngminah/TIL/issues/94)
+- [frame 과 bounds의 차이](https://github.com/Youngminah/TIL/issues/95)
+- [@IBDesignable와 @IBInspectable는 무엇?](https://github.com/Youngminah/TIL/issues/96)
 
 </br>
 </br>
