@@ -29,6 +29,12 @@
 - [iOS 14+ IDFA](https://github.com/Youngminah/TIL/issues/90)
 - [에러 핸들링 예제](https://github.com/Youngminah/TIL/issues/87)
 - [iOS 기본 호출 순서](https://github.com/Youngminah/TIL/issues/86)
+- [required init?(coder:)이란?](https://github.com/Youngminah/TIL/issues/94)
+- [frame 과 bounds의 차이](https://github.com/Youngminah/TIL/issues/95)
+- [@IBDesignable와 @IBInspectable는 무엇?](https://github.com/Youngminah/TIL/issues/96)
+- [App Delegate, Scene Delegate with IPad](https://github.com/Youngminah/TIL/issues/97)
+- [APNs](https://github.com/Youngminah/TIL/issues/98)
+- [URLSession](https://github.com/Youngminah/TIL/issues/99)
 
 
 
@@ -53,6 +59,8 @@
 - [lf let vs guard else](https://github.com/Youngminah/TIL/issues/61)
 - [RawString](https://github.com/Youngminah/TIL/issues/59)
 - [DTO와 VO](https://github.com/Youngminah/TIL/issues/68)
+- [접근지정자](https://github.com/Youngminah/TIL/issues/100)
+- [Generics](https://github.com/Youngminah/TIL/issues/101)
 
 
 
@@ -128,9 +136,9 @@
 
 
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
-- [required init?(coder:)이란?](https://github.com/Youngminah/TIL/issues/94)
-- [frame 과 bounds의 차이](https://github.com/Youngminah/TIL/issues/95)
-- [@IBDesignable와 @IBInspectable는 무엇?](https://github.com/Youngminah/TIL/issues/96)
+- [Xcode: 꿀 단축키](https://github.com/Youngminah/TIL/issues/102)
+- [Data Binding in MVVM](https://github.com/Youngminah/TIL/issues/103)
+- [Method Dispatch in Swift](https://github.com/Youngminah/TIL/issues/104)
 
 </br>
 </br>
