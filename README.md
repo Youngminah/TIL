@@ -35,6 +35,8 @@
 - [App Delegate, Scene Delegate with IPad](https://github.com/Youngminah/TIL/issues/97)
 - [APNs](https://github.com/Youngminah/TIL/issues/98)
 - [URLSession](https://github.com/Youngminah/TIL/issues/99)
+- [Data Binding in MVVM](https://github.com/Youngminah/TIL/issues/103)
+- [인앱 결제](https://github.com/Youngminah/TIL/issues/109)
 
 
 
@@ -61,6 +63,7 @@
 - [DTO와 VO](https://github.com/Youngminah/TIL/issues/68)
 - [접근지정자](https://github.com/Youngminah/TIL/issues/100)
 - [Generics](https://github.com/Youngminah/TIL/issues/101)
+- [Method Dispatch in Swift](https://github.com/Youngminah/TIL/issues/104)🔥
 
 
 
@@ -96,6 +99,7 @@
 - [UI 에셋/리소스 관련 참고하면 좋을 사이트들](https://github.com/Youngminah/iosNote/issues/13)
 - [Mac Catalyst](https://github.com/Youngminah/iosNote/issues/12)
 - [Build 내역 지우기](https://github.com/Youngminah/iosNote/issues/11)
+- [Xcode: 꿀 단축키](https://github.com/Youngminah/TIL/issues/102)
 
 
 
@@ -128,6 +132,10 @@
 - [Time Based Operators](https://github.com/Youngminah/TIL/issues/79)
 - [RxCocoa](https://github.com/Youngminah/TIL/issues/83)
 - [Error Handling](https://github.com/Youngminah/TIL/issues/88)
+- [dispose vs disposedBag](https://github.com/Youngminah/TIL/issues/105)
+- [Debounce와 Throttle](https://github.com/Youngminah/TIL/issues/106)
+- [Relay](https://github.com/Youngminah/TIL/issues/107)
+- [Bind 예제](https://github.com/Youngminah/TIL/issues/108)
 
 ## RIBs
 
@@ -136,9 +144,12 @@
 
 
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
-- [Xcode: 꿀 단축키](https://github.com/Youngminah/TIL/issues/102)
-- [Data Binding in MVVM](https://github.com/Youngminah/TIL/issues/103)
-- [Method Dispatch in Swift](https://github.com/Youngminah/TIL/issues/104)
+- [Value type vs Reference type : Memory](https://github.com/Youngminah/TIL/issues/110)
+- [Subscript](https://github.com/Youngminah/TIL/issues/111)
+- [For In vs For Each](https://github.com/Youngminah/TIL/issues/112)
+- [@frozen, Unfrozen Enum in Swift 5](https://github.com/Youngminah/TIL/issues/113)
+- [Attributes](https://github.com/Youngminah/TIL/issues/114)
+- [Method Swizzling](https://github.com/Youngminah/TIL/issues/114)
 
 </br>
 </br>
