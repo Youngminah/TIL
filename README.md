@@ -1,8 +1,13 @@
 # SSAC TIL
 ## 반드시 읽어야 할 정리
 - [GCD와 Operation Queue, 동기와 비동기, 직렬과 동시](https://github.com/Youngminah/TIL/issues/66) 🔥
+- [GCD Group 과 다수의 네트워크 묶어서 처리하기](https://github.com/Youngminah/TIL/issues/127)🔥
+- [GCD를 Aync/Await로 바꿔 콜백 지옥에서 벗어나기 swift 5.5](https://github.com/Youngminah/TIL/issues/125) 🔥
 - [Method Dispatch in Swift](https://github.com/Youngminah/TIL/issues/104)🔥
-
+- [Value type vs Reference type : Memory](https://github.com/Youngminah/TIL/issues/110) 🔥
+- [ARC (Automatic Reference Counting)](https://github.com/Youngminah/TIL/issues/116) 🔥
+- [ARC 강한 순환 참조 (Strong Reference Cycles)](https://github.com/Youngminah/TIL/issues/123) 🔥
+- [ARC Delegate 패턴에서 그동안 강한순환참조을 해결해왔던 예제 & 그이유](https://github.com/Youngminah/TIL/issues/124) 🔥
 
 ## iOS
 - [iOS의 특성](https://github.com/Youngminah/iosNote/issues/8)
