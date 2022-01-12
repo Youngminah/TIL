@@ -1,4 +1,8 @@
 # SSAC TIL
+## 반드시 읽어야 할 정리
+- [GCD와 Operation Queue, 동기와 비동기, 직렬과 동시](https://github.com/Youngminah/TIL/issues/66) 🔥
+- [Method Dispatch in Swift](https://github.com/Youngminah/TIL/issues/104)🔥
+
 
 ## iOS
 - [iOS의 특성](https://github.com/Youngminah/iosNote/issues/8)
