@@ -153,7 +153,13 @@
 - [For In vs For Each](https://github.com/Youngminah/TIL/issues/112)
 - [@frozen, Unfrozen Enum in Swift 5](https://github.com/Youngminah/TIL/issues/113)
 - [Attributes](https://github.com/Youngminah/TIL/issues/114)
-- [Method Swizzling](https://github.com/Youngminah/TIL/issues/114)
+- [Method Swizzling](https://github.com/Youngminah/TIL/issues/115)
+- [ARC (Automatic Reference Counting)](https://github.com/Youngminah/TIL/issues/116)
+- [ARC 강한 순환 참조 (Strong Reference Cycles)](https://github.com/Youngminah/TIL/issues/123)
+- [ARC Delegate 패턴에서 그동안 강한순환참조을 해결해왔던 예제 & 그이유](https://github.com/Youngminah/TIL/issues/124)
+- [GCD를 Aync/Await로 바꿔 콜백 지옥에서 벗어나기 swift 5.5](https://github.com/Youngminah/TIL/issues/125)
+- [GCD QoS](https://github.com/Youngminah/TIL/issues/126)
+- [GCD Group 과 다수의 네트워크 묶어서 처리하기](https://github.com/Youngminah/TIL/issues/127)
 
 </br>
 </br>
