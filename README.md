@@ -94,7 +94,7 @@
 ## WWDC
 - [SF Symbols](https://github.com/Youngminah/iosNote/issues/3)
 - [WWDC](https://github.com/Youngminah/iosNote/issues/2)
-- [Button iOS 15, Xcode 13](https://github.com/Youngminah/iosNote/issues/9)
+- [iOS 15 Button, Xcode 13](https://github.com/Youngminah/iosNote/issues/9)
 - [Build interfaces with style (wwdc21 xcode13)](https://github.com/Youngminah/iosNote/issues/18) 🏷
 - [iOS13 ~ iOS15 NavigationBar 달라진점](https://github.com/Youngminah/iosNote/issues/32)
 - [iOS14 Modern cell configuration WWDC2020](https://github.com/Youngminah/iosNote/issues/49)
