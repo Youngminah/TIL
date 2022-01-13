@@ -97,9 +97,9 @@
 - [Button iOS 15, Xcode 13](https://github.com/Youngminah/iosNote/issues/9)
 - [Build interfaces with style (wwdc21 xcode13)](https://github.com/Youngminah/iosNote/issues/18) 🏷
 - [iOS13 ~ iOS15 NavigationBar 달라진점](https://github.com/Youngminah/iosNote/issues/32)
-- [Modern cell configuration WWDC2020](https://github.com/Youngminah/iosNote/issues/49)
+- [iOS14 Modern cell configuration WWDC2020](https://github.com/Youngminah/iosNote/issues/49)
 - [iOS15 Sheet Presentation Controller](https://github.com/Youngminah/TIL/issues/57)
-- [PHPicker iOS14](https://github.com/Youngminah/TIL/issues/63)
+- [iOS14 PHPicker](https://github.com/Youngminah/TIL/issues/63)
 - [App thining, BitCode, dSYM)](https://github.com/Youngminah/TIL/issues/91)
 
 
