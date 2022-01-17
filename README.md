@@ -73,7 +73,19 @@
 - [접근지정자](https://github.com/Youngminah/TIL/issues/100)
 - [Generics](https://github.com/Youngminah/TIL/issues/101)
 - [Method Dispatch in Swift](https://github.com/Youngminah/TIL/issues/104)🔥
-
+- [Value type vs Reference type : Memory](https://github.com/Youngminah/TIL/issues/110) 🔥
+- [Subscript](https://github.com/Youngminah/TIL/issues/111)
+- [For In vs For Each](https://github.com/Youngminah/TIL/issues/112)
+- [@frozen, Unfrozen Enum in Swift 5](https://github.com/Youngminah/TIL/issues/113)
+- [Attributes](https://github.com/Youngminah/TIL/issues/114) 🔥
+- [Method Swizzling](https://github.com/Youngminah/TIL/issues/115)
+- [ARC (Automatic Reference Counting)](https://github.com/Youngminah/TIL/issues/116) 🔥
+- [ARC 강한 순환 참조 (Strong Reference Cycles)](https://github.com/Youngminah/TIL/issues/123) 🔥
+- [ARC Delegate 패턴에서 그동안 강한순환참조을 해결해왔던 예제 & 그이유](https://github.com/Youngminah/TIL/issues/124) 🔥
+- [GCD를 Aync/Await로 바꿔 콜백 지옥에서 벗어나기 swift 5.5](https://github.com/Youngminah/TIL/issues/125) 🔥
+- [GCD QoS](https://github.com/Youngminah/TIL/issues/126)
+- [GCD Group 과 다수의 네트워크 묶어서 처리하기](https://github.com/Youngminah/TIL/issues/127)🔥
+- [defer](https://github.com/Youngminah/TIL/issues/128)
 
 
 
@@ -101,7 +113,7 @@
 - [iOS15 Sheet Presentation Controller](https://github.com/Youngminah/TIL/issues/57)
 - [iOS14 PHPicker](https://github.com/Youngminah/TIL/issues/63)
 - [App thining, BitCode, dSYM)](https://github.com/Youngminah/TIL/issues/91)
-
+- [iOS 15 ColorPickerController](https://github.com/Youngminah/TIL/issues/129)
 
 ## 팁
 - [뱅크샐러드 Design System (2020.08)](https://github.com/Youngminah/iosNote/issues/28)
@@ -153,18 +165,7 @@
 
 
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
-- [Value type vs Reference type : Memory](https://github.com/Youngminah/TIL/issues/110) 🔥
-- [Subscript](https://github.com/Youngminah/TIL/issues/111)
-- [For In vs For Each](https://github.com/Youngminah/TIL/issues/112)
-- [@frozen, Unfrozen Enum in Swift 5](https://github.com/Youngminah/TIL/issues/113)
-- [Attributes](https://github.com/Youngminah/TIL/issues/114) 🔥
-- [Method Swizzling](https://github.com/Youngminah/TIL/issues/115)
-- [ARC (Automatic Reference Counting)](https://github.com/Youngminah/TIL/issues/116) 🔥
-- [ARC 강한 순환 참조 (Strong Reference Cycles)](https://github.com/Youngminah/TIL/issues/123) 🔥
-- [ARC Delegate 패턴에서 그동안 강한순환참조을 해결해왔던 예제 & 그이유](https://github.com/Youngminah/TIL/issues/124) 🔥
-- [GCD를 Aync/Await로 바꿔 콜백 지옥에서 벗어나기 swift 5.5](https://github.com/Youngminah/TIL/issues/125) 🔥
-- [GCD QoS](https://github.com/Youngminah/TIL/issues/126)
-- [GCD Group 과 다수의 네트워크 묶어서 처리하기](https://github.com/Youngminah/TIL/issues/127)🔥
+
 
 </br>
 </br>
