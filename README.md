@@ -46,7 +46,7 @@
 - [URLSession](https://github.com/Youngminah/TIL/issues/99)
 - [Data Binding in MVVM](https://github.com/Youngminah/TIL/issues/103)
 - [인앱 결제](https://github.com/Youngminah/TIL/issues/109)
-
+- [App thining, BitCode, dSYM](https://github.com/Youngminah/TIL/issues/91)
 
 
 ## Swift
