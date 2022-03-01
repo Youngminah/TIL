@@ -9,6 +9,12 @@
 - [ARC 강한 순환 참조 (Strong Reference Cycles)](https://github.com/Youngminah/TIL/issues/123) 🔥
 - [ARC Delegate 패턴에서 그동안 강한순환참조을 해결해왔던 예제 & 그이유](https://github.com/Youngminah/TIL/issues/124) 🔥
 
+## 전공자라면 읽어야 할 정리
+- [네트워크 총 정리 1편](https://github.com/Youngminah/TIL/issues/139) 🔥
+- [네트워크 총 정리 2편](https://github.com/Youngminah/TIL/issues/140) 🔥
+- [네트워크 총 정리 3편](https://github.com/Youngminah/TIL/issues/141) 🔥
+- [Git 이해하기](https://github.com/Youngminah/TIL/issues/137) 🔥
+
 ## iOS
 - [iOS의 특성](https://github.com/Youngminah/iosNote/issues/8)
 - [앱의 구조와 동작 원리](https://github.com/Youngminah/iosNote/issues/7)
@@ -137,6 +143,11 @@
 - [SOLID 객체지향의 5가지 원칙](https://github.com/Youngminah/TIL/issues/93)
 - [HTTP (Hypertext transfer protocol)](https://github.com/Youngminah/TIL/issues/92)
 - [BaaS: Backend as a Service](https://github.com/Youngminah/TIL/issues/89)
+- [네트워크 총 정리 1편](https://github.com/Youngminah/TIL/issues/139) 🔥
+- [네트워크 총 정리 2편](https://github.com/Youngminah/TIL/issues/140) 🔥
+- [네트워크 총 정리 3편](https://github.com/Youngminah/TIL/issues/141) 🔥
+- [Git 이해하기](https://github.com/Youngminah/TIL/issues/137) 🔥
+
 
 ## iOS Clean Architecture
 - [1. iOS Clean Architecture + MVVM 정리](https://github.com/Youngminah/TIL/issues/69)
@@ -162,7 +173,7 @@
 
 
 ## Unit Test & UI Test
-
+- [CI/CD](https://github.com/Youngminah/TIL/issues/138)
 
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
 
