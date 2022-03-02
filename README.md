@@ -8,6 +8,8 @@
 - [ARC (Automatic Reference Counting)](https://github.com/Youngminah/TIL/issues/116) 🔥
 - [ARC 강한 순환 참조 (Strong Reference Cycles)](https://github.com/Youngminah/TIL/issues/123) 🔥
 - [ARC Delegate 패턴에서 그동안 강한순환참조을 해결해왔던 예제 & 그이유](https://github.com/Youngminah/TIL/issues/124) 🔥
+- [Unit Test 로그인화면 예제로 알아보기](https://github.com/Youngminah/TIL/issues/143) 🔥
+
 
 ## 전공자라면 읽어야 할 정리
 - [네트워크 총 정리 1편](https://github.com/Youngminah/TIL/issues/139) 🔥
@@ -174,6 +176,7 @@
 
 ## Unit Test & UI Test
 - [CI/CD](https://github.com/Youngminah/TIL/issues/138)
+- [Unit Test 로그인화면 예제로 알아보기](https://github.com/Youngminah/TIL/issues/143) 🔥
 
 ## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
 
