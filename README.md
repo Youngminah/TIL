@@ -132,7 +132,7 @@
 
 
 
-## 기술스택 & 아키텍처
+## 기술 스택
 - [LLDB](https://github.com/Youngminah/iosNote/issues/31) 🔥
 - [CocoaPods vs Carthage vs Swift Package Manager](https://github.com/Youngminah/iosNote/issues/37)
 - [페이징기법](https://github.com/Youngminah/TIL/issues/62) 
@@ -151,7 +151,7 @@
 - [Git 이해하기](https://github.com/Youngminah/TIL/issues/137) 🔥
 
 
-## iOS Clean Architecture
+## Architecture
 - [1. iOS Clean Architecture + MVVM 정리](https://github.com/Youngminah/TIL/issues/69)
 - [2. iOS Clean Architecture + MVVM 정리](https://github.com/Youngminah/TIL/issues/70)
 - [MVC, MVP, MVVM, VIPER](https://github.com/Youngminah/TIL/issues/71)
@@ -170,9 +170,6 @@
 - [Debounce와 Throttle](https://github.com/Youngminah/TIL/issues/106)
 - [Relay](https://github.com/Youngminah/TIL/issues/107)
 - [Bind 예제](https://github.com/Youngminah/TIL/issues/108)
-
-## RIBs
-
 
 ## Unit Test & UI Test
 - [CI/CD](https://github.com/Youngminah/TIL/issues/138)
