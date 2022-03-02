@@ -171,7 +171,7 @@
 - [Relay](https://github.com/Youngminah/TIL/issues/107)
 - [Bind 예제](https://github.com/Youngminah/TIL/issues/108)
 
-## Unit Test & UI Test
+## CI/CD
 - [CI/CD](https://github.com/Youngminah/TIL/issues/138)
 - [Unit Test 로그인화면 예제로 알아보기](https://github.com/Youngminah/TIL/issues/143) 🔥
 
