@@ -3,20 +3,28 @@
 - [GCD와 Operation Queue, 동기와 비동기, 직렬과 동시](https://github.com/Youngminah/TIL/issues/66) 🔥
 - [GCD Group 과 다수의 네트워크 묶어서 처리하기](https://github.com/Youngminah/TIL/issues/127)🔥
 - [GCD를 Aync/Await로 바꿔 콜백 지옥에서 벗어나기 swift 5.5](https://github.com/Youngminah/TIL/issues/125) 🔥
+
+</br>
+
 - [Method Dispatch in Swift](https://github.com/Youngminah/TIL/issues/104)🔥
 - [Memory Value type vs Reference type](https://github.com/Youngminah/TIL/issues/110) 🔥
 - [ARC (Automatic Reference Counting)](https://github.com/Youngminah/TIL/issues/116) 🔥
 - [ARC 강한 순환 참조 (Strong Reference Cycles)](https://github.com/Youngminah/TIL/issues/123) 🔥
 - [ARC Delegate 패턴에서 그동안 강한순환참조을 해결해왔던 예제 & 그이유](https://github.com/Youngminah/TIL/issues/124) 🔥
+
+</br>
+
 - [Unit Test 로그인화면 예제로 알아보기](https://github.com/Youngminah/TIL/issues/143) 🔥
 - [Unit Test Network 비동기 알아보기](https://github.com/Youngminah/TIL/issues/144) 🔥
-
+</br>
 
 ## 전공자라면 읽어야 할 정리
 - [네트워크 총 정리 1편](https://github.com/Youngminah/TIL/issues/139) 🔥
 - [네트워크 총 정리 2편](https://github.com/Youngminah/TIL/issues/140) 🔥
 - [네트워크 총 정리 3편](https://github.com/Youngminah/TIL/issues/141) 🔥
 - [Git 이해하기](https://github.com/Youngminah/TIL/issues/137) 🔥
+</br>
+</br>
 
 ## iOS
 - [iOS의 특성](https://github.com/Youngminah/iosNote/issues/8)
