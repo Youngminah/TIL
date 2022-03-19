@@ -16,6 +16,7 @@
 
 - [Unit Test 로그인화면 예제로 알아보기](https://github.com/Youngminah/TIL/issues/143) 🔥
 - [Unit Test Network 비동기 알아보기](https://github.com/Youngminah/TIL/issues/144) 🔥
+- [Rxtest 알아보기](https://github.com/Youngminah/TIL/issues/146) 🔥 `New`
 - [클린아키텍처 Test코드 작성기 1편 with Rxtest](https://github.com/Youngminah/TIL/issues/145) 🔥 `New`
 </br>
 
@@ -194,6 +195,8 @@
 - [CI/CD](https://github.com/Youngminah/TIL/issues/138)
 - [Unit Test 로그인화면 예제로 알아보기](https://github.com/Youngminah/TIL/issues/143) 🔥
 - [Unit Test Network 비동기 알아보기](https://github.com/Youngminah/TIL/issues/144) 🔥
+- [Rxtest 알아보기](https://github.com/Youngminah/TIL/issues/146) 🔥 `New`
+- [클린아키텍처 Test코드 작성기 1편 with Rxtest](https://github.com/Youngminah/TIL/issues/145) 🔥 `New`
 
 
 
