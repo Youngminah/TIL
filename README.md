@@ -186,7 +186,6 @@
 - [Unit Test 로그인화면 예제로 알아보기](https://github.com/Youngminah/TIL/issues/143) 🔥
 - [Unit Test Network 비동기 알아보기](https://github.com/Youngminah/TIL/issues/144) 🔥
 
-## 이번주에 배운것 (전 주가 된다면 위의 카테고리로 이동)
 
 
 </br>
