@@ -16,13 +16,22 @@
 
 - [Unit Test 로그인화면 예제로 알아보기](https://github.com/Youngminah/TIL/issues/143) 🔥
 - [Unit Test Network 비동기 알아보기](https://github.com/Youngminah/TIL/issues/144) 🔥
+- [클린아키텍처 Test코드 작성기 1편 with Rxtest](https://github.com/Youngminah/TIL/issues/145) 🔥 `New`
 </br>
 
 ## 전공자라면 읽어야 할 정리
+- [SOLID 객체지향의 5가지 원칙](https://github.com/Youngminah/TIL/issues/93) 🔥 `New`
+
+</br>
+
+
 - [네트워크 총 정리 1편](https://github.com/Youngminah/TIL/issues/139) 🔥
 - [네트워크 총 정리 2편](https://github.com/Youngminah/TIL/issues/140) 🔥
 - [네트워크 총 정리 3편](https://github.com/Youngminah/TIL/issues/141) 🔥
 - [네트워크 총 정리 4편](https://github.com/Youngminah/TIL/issues/142) 🔥 `New`
+
+</br>
+
 - [Git 이해하기](https://github.com/Youngminah/TIL/issues/137) 🔥
 </br>
 </br>
@@ -152,7 +161,7 @@
 ## CS지식
 - [HTTP vs Socket](https://github.com/Youngminah/TIL/issues/60)
 - [트랜잭션 Transaction (DB기초)](https://github.com/Youngminah/TIL/issues/81)
-- [SOLID 객체지향의 5가지 원칙](https://github.com/Youngminah/TIL/issues/93)
+- [SOLID 객체지향의 5가지 원칙](https://github.com/Youngminah/TIL/issues/93) 🔥
 - [HTTP (Hypertext transfer protocol)](https://github.com/Youngminah/TIL/issues/92)
 - [BaaS: Backend as a Service](https://github.com/Youngminah/TIL/issues/89)
 - [네트워크 총 정리 1편](https://github.com/Youngminah/TIL/issues/139) 🔥
