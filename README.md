@@ -30,7 +30,11 @@
 - [네트워크 총 정리 2편](https://github.com/Youngminah/TIL/issues/140) 🔥
 - [네트워크 총 정리 3편](https://github.com/Youngminah/TIL/issues/141) 🔥
 - [네트워크 총 정리 4편](https://github.com/Youngminah/TIL/issues/142) 🔥 `New`
+</br>
 
+
+- [운영체제 총 정리 1편](https://github.com/Youngminah/TIL/issues/147) 🔥 `New`
+- [운영체제 총 정리 2편](https://github.com/Youngminah/TIL/issues/148) 🔥 `New`
 </br>
 
 - [Git 이해하기](https://github.com/Youngminah/TIL/issues/137) 🔥
@@ -168,6 +172,8 @@
 - [네트워크 총 정리 1편](https://github.com/Youngminah/TIL/issues/139) 🔥
 - [네트워크 총 정리 2편](https://github.com/Youngminah/TIL/issues/140) 🔥
 - [네트워크 총 정리 3편](https://github.com/Youngminah/TIL/issues/141) 🔥
+- [운영체제 총 정리 1편](https://github.com/Youngminah/TIL/issues/147) 🔥 
+- [운영체제 총 정리 2편](https://github.com/Youngminah/TIL/issues/148) 🔥 
 - [Git 이해하기](https://github.com/Youngminah/TIL/issues/137) 🔥
 
 
