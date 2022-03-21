@@ -25,11 +25,11 @@
 
 </br>
 
-
 - [네트워크 총 정리 1편](https://github.com/Youngminah/TIL/issues/139) 🔥
 - [네트워크 총 정리 2편](https://github.com/Youngminah/TIL/issues/140) 🔥
 - [네트워크 총 정리 3편](https://github.com/Youngminah/TIL/issues/141) 🔥
 - [네트워크 총 정리 4편](https://github.com/Youngminah/TIL/issues/142) 🔥 `New`
+- [HTTP, HTTPS 차이](https://github.com/Youngminah/TIL/issues/149) 🔥 `New`
 </br>
 
 
@@ -165,6 +165,7 @@
 
 ## CS지식
 - [HTTP vs Socket](https://github.com/Youngminah/TIL/issues/60)
+- [HTTP, HTTPS 차이](https://github.com/Youngminah/TIL/issues/149) 🔥 
 - [트랜잭션 Transaction (DB기초)](https://github.com/Youngminah/TIL/issues/81)
 - [SOLID 객체지향의 5가지 원칙](https://github.com/Youngminah/TIL/issues/93) 🔥
 - [HTTP (Hypertext transfer protocol)](https://github.com/Youngminah/TIL/issues/92)
