@@ -166,6 +166,7 @@
 - [Mac Catalyst](https://github.com/Youngminah/iosNote/issues/12)
 - [Build 내역 지우기](https://github.com/Youngminah/iosNote/issues/11)
 - [Xcode: 꿀 단축키](https://github.com/Youngminah/TIL/issues/102)
+- [단축키 모음집](https://github.com/Youngminah/TIL/issues/163)
 
 
 
